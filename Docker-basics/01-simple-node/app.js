@@ -1,0 +1,1 @@
+console.log("Docker basics - Node running!");
